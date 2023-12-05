@@ -1,0 +1,15 @@
+.button1:hover,
+.button2:hover {
+  background-color: white !important;
+}
+.button3:hover{
+    background-color: grey;
+}
+.updated-input{
+    margin-top: 15px;
+    margin-right: 5px;
+}
+.updated-input1{
+    margin-top: 15px;
+    background-color:cornflowerblue
+}
